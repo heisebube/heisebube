@@ -26,7 +26,7 @@ Currently building and learning through real-world projects, including **Paulcre
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ebubechukwu&show_icons=true&hide_border=true&rank_icon=github" height="180" />
@@ -34,7 +34,7 @@ Currently building and learning through real-world projects, including **Paulcre
 </p>
 
 ---
-
+-->
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
@@ -54,7 +54,7 @@ PowerShell   7 mins                ▒░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
-
+<!--
 ## 🔥 GitHub Contributions
 
 <p align="center">
@@ -62,7 +62,7 @@ PowerShell   7 mins                ▒░░░░░░░░░░░░░░
 </p>
 
 ---
-
+-->
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: [Ebubechukwu Paul-Ogbonna](https://www.linkedin.com/in/ebube-paulo/)
