@@ -40,15 +40,15 @@ Currently building and learning through real-world projects, including **Paulcre
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2026 - To: 15 October 2026
+From: 09 October 2026 - To: 16 October 2026
 
-Total Time: 6 hrs 57 mins
+Total Time: 8 hrs 40 mins
 
-TypeScript   6 hrs 19 mins         ██████████████████████▓░░   91.03 %
-Bash         21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-PowerShell   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-CSV          7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TypeScript   6 hrs 19 mins         ██████████████████▒░░░░░░   72.86 %
+Python       1 hr 43 mins          █████░░░░░░░░░░░░░░░░░░░░   19.86 %
+Bash         21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+PowerShell   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+CSV          7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
